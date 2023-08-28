@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.mainContainer{
+	height: 600px;
+	color: black;
+}
+
+.header{
+	display: grid;
+	background: #262626;
+	color: white;
+	height: 150px;
+}
+
+
+
+
+.mainContent{
+	float: right;
+	background: white;
+	color: black;
+	height: 600px;
+	width: 800px;
+
+}
+
+.dashBtn{
+	background: green;
+	height: 60px;
+	width: 180px;
+	color: white;
+
+}
+.addemBtn{
+	background: #abdbe3;
+	height: 60px;
+	width: 180px;
+
+}
+
+.logoutBtn{
+    background: red;
+	height: 60px;
+	width: 180px;
+	color: white;
+}
